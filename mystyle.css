@@ -1,0 +1,79 @@
+@font-face {
+    font-family: "Amazon Ember";
+    src: url("fonts/AmazonEmber_Rg.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "Amazon Ember Bold";
+    src: url("fonts/AmazonEmber_Bd.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 100;
+}
+
+html, body {
+    font-family: "Amazon Ember";
+    font-weight: 100;    
+}
+
+.top-img {
+    width: 200px;
+}
+
+.bot-img {
+    opacity: 20%;
+    vertical-align: middle;
+    height: 12px;
+    width: 100px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.sign-in {
+    font-size: x-large;
+    font-family: "Amazon Ember";
+    font-weight: 100;    
+}
+
+.email-box {
+    font-family: "Amazon Ember Bold";
+    font-weight: 100;    
+}
+
+.pw-box {
+    font-family: "Amazon Ember Bold";
+    font-weight: 100;    
+}
+
+.input-box {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.signin-button {
+    border-width: 1px;
+    border-color: black;
+    margin-top: 15px;
+}
+
+.create-button {
+    border-width: 1px;
+    border-color: black;
+    margin-top: 15px;
+}
+
+.amazon-new {
+    opacity: 50%;
+    column-width: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.side-bar {
+    column-width: 10em;
+}
