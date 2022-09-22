@@ -67,6 +67,10 @@ html, body {
     margin-top: 15px;
 }
 
+.continuing {
+    margin-top: 15px;    
+}
+
 .amazon-new {
     opacity: 50%;
     column-width: auto;
